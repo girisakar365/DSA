@@ -201,9 +201,12 @@ Linear data structures to store multiple data of same data type in <b>contineous
 - Soluctions:
 
     - refrential arrya
+    
     ![ra](https://github.com/girisakar365/DSA/blob/main/img/refrencial%20array.png?raw=true)
 
-    - dynamic array ![da](https://github.com/girisakar365/DSA/blob/main/img/dynamic%20array.png?raw=true)
+    - dynamic array 
+    
+    ![da](https://github.com/girisakar365/DSA/blob/main/img/dynamic%20array.png?raw=true)
 
 #### Example 2.0
 ```py
