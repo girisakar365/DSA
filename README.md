@@ -4,6 +4,7 @@
 This Repo contains all my progress in DSA as notes.
 
 ### Content Overview:
+### Content Overview:
 | Serial No. | Topic                                           | Description                                           |
 |------------|-------------------------------------------------|-------------------------------------------------------|
 | 1          | [Algorithmic Complexity](#algorithmic-complexity) | Considerations for algorithm efficiency - time and space. |
@@ -11,7 +12,14 @@ This Repo contains all my progress in DSA as notes.
 | 3          | [Order of Growth](#order-of-growth)           | Identifying the largest factors in runtime.            |
 | 4          | [The Big O Notation](#the-big-o-notation)     | Notation to calculate the order of growth.            |
 | 5          | [Types of Complexity](#types-of-complexity)   | Overview of common complexity types: O(1), O(log(n)), etc. |
-
+| 6          | [Data Structures](#data-structures)           | A look into organizing and managing data efficiently.  |
+| 6.1        | [Array](#array)                               | A linear data structure for storing data efficiently.  |
+| 6.2        | [Linked List](#linked-list)                   | A dynamic data structure for managing data.           |
+| 6.3        | [Stacks](#stacks)                             | A linear data structure with Last-In-First-Out (LIFO) behavior. |
+| 6.4        | [Queues](#queues)                             | A linear data structure with First-In-First-Out (FIFO) behavior. |
+| 6.5        | [Hashing](#hashing)                           | A technique for fast data retrieval using a hash function. |
+| 6.6        | [Trees](#trees)                               | Non-linear data structures for hierarchical organization. |
+| 6.7        | [Graphs](#graphs)                             | Non-linear data structures for complex relationships. |
 
 ### Algorithmic Complexity:
 
@@ -208,7 +216,7 @@ Linear data structures to store multiple data of same data type in <b>contineous
     
     ![da](https://github.com/girisakar365/DSA/blob/main/img/dynamic%20array.png?raw=true)
 
-#### Example 2.0
+#### Example 2.0: Dynamic Array
 ```py
 import sys
 
