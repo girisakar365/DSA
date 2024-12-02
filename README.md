@@ -66,8 +66,8 @@ Algorithm is a step-by-step procedure for solving a problem or accomplishing a t
 
     Stack is a linear data structure based on LIFO(Last In First Out) principle in which the insertion of a new element and removal of an existing element takes place at the same end represented as the top of the stack.
 
-![Stack](/assets/Stack-Representation.webp)
-**Credit**: [GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
+    ![Stack](/assets/Stack-Representation.webp)
+    **Credit**: [GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
 
 2. **Types of Stack Data Structure:**
 
@@ -93,7 +93,7 @@ Algorithm is a step-by-step procedure for solving a problem or accomplishing a t
     - The elements can be pushed into the stack till we reach the capacity of the stack. 
 
     ![push-operation](/assets/Push-Operation-in-Stack.webp)
-**Credit**: [GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
+    **Credit**: [GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
 
 ```cpp
 void push(int element) {
@@ -114,7 +114,7 @@ void push(int element) {
     - The elements can be popped from the stack till we reach the bottom of the stack.
 
     ![pop-operation](/assets/Pop-Operation-in-Stack.webp)
-**Credit**: [GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
+    **Credit**: [GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
 
 ```cpp
 void pop() {
@@ -133,6 +133,7 @@ void pop() {
     - Otherwise, we return the element stored at index = top.
 
     ![peek-operation](/assets/Top-or-Peek-Operation-in-Stack.webp)
+    **Credit**: [GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
 
 ```cpp
 int peek() {
