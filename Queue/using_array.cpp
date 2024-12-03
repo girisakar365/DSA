@@ -13,7 +13,7 @@ class Queue {
             array = new int[size];
 
             do{
-                cout << "\nStack Operations" << endl;
+                cout << "\nQueue Operations" << endl;
                 cout << "1. Enqueue" << endl;
                 cout << "2. Dequeue" << endl;
                 cout << "3. Display" << endl;
