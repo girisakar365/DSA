@@ -2,7 +2,7 @@
 
 using namespace std;
 
-class Node {
+struct Node {
 public:
     int data;
     Node* next;
@@ -40,6 +40,7 @@ class Queue {
             } else {
                 Node* temp = front;
                 front = front->next;
+                cout << temp->data << " is out of queue." << endl; 
                 delete temp;
             }
         }
